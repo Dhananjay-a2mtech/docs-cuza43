@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-uwl7d5.saturadar88.shop/sitemap.xml
